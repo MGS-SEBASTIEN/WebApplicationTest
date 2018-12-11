@@ -1,4 +1,3 @@
-if( 1 == 1){
-    console.log("ok");
-    
+if (dfgdf) {
+    dfgdfgdfgdfg
 }
