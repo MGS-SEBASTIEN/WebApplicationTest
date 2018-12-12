@@ -1,3 +1,4 @@
-if (dfgdf) {
-    dfgdfgdfgdfg
+if (1 < 2) {
+    console.log("GREAT !");
+
 }
